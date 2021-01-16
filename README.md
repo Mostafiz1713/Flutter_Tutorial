@@ -1,4 +1,5 @@
-# Flutter Tutorial Beginner
+# 
+const String appBar = 'Flutter Tutorials';
 
 A new Flutter application.
 
